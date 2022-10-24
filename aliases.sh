@@ -67,6 +67,11 @@ alias dkceulw="dkc exec --user=laradock workspace bash $*"
 #################################################################
 alias nr="npm run $*"
 alias nrs="npm run start $*"
+alias nrd="npm run dev $*"
+alias nrb="npm grun build $*"
+alias nrw="npm run watch $*"
+alias nrs="npm run serve $*"
+alias nrt="npm run test $*"
 
 #################################################################
 #                             other                             #
